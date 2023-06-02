@@ -13,6 +13,6 @@ class FourWalls {
        int rate = sc.nextInt();
        double cost = ((length * breadth * height) / 500)*rate;
        System.out.println("Cost of painting the four walls of a room is " + cost);
-       sc.close();
+
    }
 }
